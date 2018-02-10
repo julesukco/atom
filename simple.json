@@ -1,1 +1,17 @@
-{"test":"success"}
+{
+  "test": "success",
+  "array": [
+    {
+      "name": "fred",
+      "length": 5
+    },
+    {
+      "name": "john",
+      "length": 3
+    },
+    {
+      "name": "jane",
+      "length": 71
+    }
+  ]
+}
